@@ -87,6 +87,9 @@ This would create a serialized version of our model into a file model.pkl
 ```
 
 By default, flask will run on port 5000. 
+
+<br><br>
+
 Deployment Link : http://127.0.0.1:5000/ (Link will open Locally)
 
 <br><br>
